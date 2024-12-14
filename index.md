@@ -60,28 +60,28 @@ We then **transposed** the datasets to make the year column the index, ensuring 
 After preparing the datasets, we analyzed the data based on **two main axes**: the **U.S. Presidential Terms** and the **German Chancellor Terms** which both aligned perfectly **(2009-2013, 2013-2017, 2017-2021, 2021-2023)**. Shaded regions were used to highlight the periods of different U.S. presidencies and German chancellorships, making it easier to visualize the impacts of leadership changes. We plotted each dataset over these political tenures to explore how the leadership affected the economic indicators.
 
 - **Graphing for Each Indicator (Points 1-8):** For each of the following points, we created **separate** graphs for the U.S. and Germany to visualize and compare the trends:
- 
-1. **Consumer Price Index (CPI)**: We visualized the **CPI** for both countries to see how the cost of consumer goods has evolved from 2009 to 2023\.
 
-  <iframe src="Consumer Price Index (2010 100) - United States.html" width="100%" height="600" frameborder="0"></iframe>
- <iframe src="Consumer Price Index (2010 100) - Germany.html" width="100%" height="600" frameborder="0"></iframe>
+  **1. Consumer Price Index (CPI)**: We visualized the **CPI** for both countries to see how the cost of consumer goods has evolved from 2009 to 2023\.
+
+<iframe src="Consumer Price Index (2010 100) - United States.html" width="100%" height="600" frameborder="0"></iframe>
+<iframe src="Consumer Price Index (2010 100) - Germany.html" width="100%" height="600" frameborder="0"></iframe>
 
 
-2. **Inflation, Consumer Prices (Annual %)** :  
+**2. Inflation, Consumer Prices (Annual %)** :  
    We plotted the **annual inflation rates** based on **CPI** for the U.S. and Germany to compare how the yearly inflation percentage has fluctuated across both countries.  
    
  <iframe src="Inflation, Consumer Prices (Annual %) - United States.html" width="100%" height="600" frameborder="0"></iframe>
  <iframe src="Inflation, Consumer Prices (Annual %) - Germany.html" width="100%" height="600" frameborder="0"></iframe>
 
 
-3. **CPI and Inflation Graph**:  
+**3. CPI and Inflation Graph**:  
    We combined **CPI** and **Inflation** data on a single graph for both countries, allowing a direct comparison of these two key indicators.
 
  <iframe src="Consumer Price Index (CPI) and Inflation in the US (2009-2023).html" width="100%" height="600" frameborder="0"></iframe>
  <iframe src="Consumer Price Index (CPI) and Inflation in Germany (2009-2023).html" width="100%" height="600" frameborder="0"></iframe>
 
 
-4. **Inflation, GDP deflator (Annual %)**:  
+**4. Inflation, GDP deflator (Annual %)**:  
    We created graphs showing inflation based on the **GDP deflator**, which offers a broader view of inflation by measuring price changes in the economy as a whole.
 
  <iframe src="Inflation, GDP deflator (annual %) - United States.html" width="100%" height="600" frameborder="0"></iframe>
