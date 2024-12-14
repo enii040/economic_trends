@@ -10,7 +10,7 @@ Val Hoxha & Eneida Likaj
 
 ## **Introduction**
 
-The primary aim of this project is to conduct a comparative analysis of inflation and economic trends in the U.S. and Germany across different political leadership periods. We focus on the **Consumer Price Index (CPI)**, **Inflation, GDP**, and **GDP Deflator** data from 2009 to 2023, analyzing how these economic indicators vary under different U.S. presidencies (Obama, Trump, Biden) and German chancellor ships (Merkel and Scholz). Specifically, we seek to understand how inflationary trends and overall economic performance have been influenced by changes in political leadership in both countries.
+The primary aim of this project is to conduct a comparative analysis of inflation and economic trends in the U.S. and Germany across different political leadership periods. We focus on the **Consumer Price Index (CPI)**, **Inflation, GDP**, and **GDP Deflator** data from 2009 to 2023, analyzing how these economic indicators vary under different U.S. presidencies (Obama, Trump, Biden) and German chancellorships (Merkel and Scholz). Specifically, we seek to understand how inflationary trends and overall economic performance have been influenced by changes in political leadership in both countries.
 
 ### **Data and Data Sources**
 
@@ -51,20 +51,19 @@ We first focused on **slicing the data** to only include the relevant rows for t
 
 We then **transposed** the datasets to make the year column the index, ensuring that it would be easier to plot and analyze the data over time. The datasets were cleaned to handle missing or inconsistent data points, which were minimal but addressed by interpolation when necessary.
 
-### 
 
 ### **Data Issues & Concerns**
 
 * The data for both countries had some discrepancies, particularly in terms of different base years for the GDP deflator. We took these differences into account during our analysis, ensuring that the comparisons made were contextually relevant.  
 * Due to missing data points for some countries, especially those outside the U.S., we focused on Germany, which had complete and reliable data for the period of interest. This allowed us to maintain consistency and ensure a meaningful comparison in our analysis.
 
-### 
 
 ### **Analysis and Visualizations**
 
 After preparing the datasets, we analyzed the data based on **two main axes**: the **U.S. Presidential Terms** and the **German Chancellor Terms** which both aligned perfectly **(2009-2013, 2013-2017, 2017-2021, 2021-2023)**. Shaded regions were used to highlight the periods of different U.S. presidencies and German chancellorships, making it easier to visualize the impacts of leadership changes. We plotted each dataset over these political tenures to explore how the leadership affected the economic indicators.
 
-- **Graphing for Each Indicator (Points 1-8):** For each of the following points, we created **separate** graphs for the U.S. and Germany to visualize and compare the trends:  
+- **Graphing for Each Indicator (Points 1-8):** For each of the following points, we created **separate** graphs for the U.S. and Germany to visualize and compare the trends:
+ 
 1. **Consumer Price Index (CPI)**: We visualized the **CPI** for both countries to see how the cost of consumer goods has evolved from 2009 to 2023\.
 
 *![][image1]*
