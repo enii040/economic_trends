@@ -1,6 +1,6 @@
-## Analyzing Inflation and Economic Trends: A Comparative Data Analysis of U.S. and German CPI, GDP, and Inflation Across Presidential and Chancellor Tenures 
+
 <div align="center">
-  Eneida Likaj
+## Analyzing Inflation and Economic Trends: A Comparative Data Analysis of U.S. and German CPI, GDP, and Inflation Across Presidential and Chancellor Tenures 
 </div>
 
 <div align="center">
