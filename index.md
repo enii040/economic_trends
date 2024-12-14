@@ -1,23 +1,13 @@
 
-<div align="center">
 ## Analyzing Inflation and Economic Trends: 
-  ####A Comparative Data Analysis of U.S. and German CPI, GDP, and Inflation Across Presidential and Chancellor Tenures 
-</div>
+### A Comparative Data Analysis of U.S. and German CPI, GDP, and Inflation Across Presidential and Chancellor Tenures 
+
 
 <div align="center">
 Val Hoxha & Eneida Likaj
   <p><a href="https://colab.research.google.com/drive/1owGzEK4yEnB7BBwD5_JwS8etEzIckTPT?usp=sharing" target="_blank">Google Collab</a></p>
 </div>
-**Analyzing Inflation and Economic Trends: A Comparative Data Analysis of U.S. and German CPI, GDP, and Inflation Across Presidential and Chancellor Tenures**
 
-### **Group Members:**
-
-* Val Hoxha  
-* Eneida Likaj
-
-### **Group Assessment:**
-
-* 50% (Val Hoxha) \- 50% (Eneida Likaj)
 
 ## **Introduction**
 
