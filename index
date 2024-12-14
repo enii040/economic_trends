@@ -4,9 +4,7 @@
 </div>
 
 <div align="center">
-Group Members: Val Hoxha & Eneida Likaj
-Group Assessment: 50% (Val Hoxha) - 50% (Eneida Likaj)
-
+Val Hoxha & Eneida Likaj
   <p><a href="https://colab.research.google.com/drive/1owGzEK4yEnB7BBwD5_JwS8etEzIckTPT?usp=sharing" target="_blank">Google Collab</a></p>
 </div>
 
@@ -34,8 +32,6 @@ What are the similarities and differences between inflationary trends in the U.S
 
 #Overview of Analysis Approach
 Our approach is to analyze CPI, inflation, and GDP data for both the U.S. and Germany across different political tenures. We will compare the CPI-based inflation and GDP deflator-based inflation to evaluate their relationship and differences, and how they change under different political leadership in both countries. This analysis will use visualizations and statistical analysis to interpret the trends.
-
-
 
 #Methods & Results
 ##Data Preparation
