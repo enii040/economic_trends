@@ -25,7 +25,6 @@ The primary aim of this project is to conduct a comparative analysis of inflatio
 5. **GDP Deflator (Base Year Varies by Country) \- United States & Germany (2010 base year):** The GDP deflator is the ratio of nominal GDP to real GDP, which provides an economy-wide price measure. This dataset shows the percentage change in the GDP deflator, using a base year of 2010 for both the United States and Germany. The data covers 1960 to 2023 and includes 265 countries and regions.  
    * Data source: World Bank (API\_NY.GDP.DEFL.ZS\_DS2\_en\_csv\_v2\_3767.csv)
 
-### 
 
 ### **Research Questions**
 
@@ -33,13 +32,11 @@ The primary aim of this project is to conduct a comparative analysis of inflatio
 * How do changes in economic indicators like GDP reflect shifts in leadership policies and their impact on the overall economy?  
 * What are the similarities and differences between inflationary trends in the U.S. and Germany during different political periods?
 
-### 
 
 ### **Overview of Analysis Approach**
 
 Our approach is to analyze CPI, inflation, and GDP data for both the U.S. and Germany across different political tenures. We will compare the **CPI-based inflation** and **GDP deflator-based inflation** to evaluate their relationship and differences, and how they change under different political leadership in both countries. This analysis will use visualizations and statistical analysis to interpret the trends.
 
-## 
 
 ## **Methods & Results**
 
@@ -69,47 +66,48 @@ After preparing the datasets, we analyzed the data based on **two main axes**: t
   <iframe src="Consumer Price Index (2010 100) - United States.html" width="100%" height="600" frameborder="0"></iframe>
  <iframe src="Consumer Price Index (2010 100) - Germany.html" width="100%" height="600" frameborder="0"></iframe>
 
+
 2. **Inflation, Consumer Prices (Annual %)** :  
    We plotted the **annual inflation rates** based on **CPI** for the U.S. and Germany to compare how the yearly inflation percentage has fluctuated across both countries.  
    
- <iframe src="Consumer Price Index (CPI) and Inflation in the US (2009-2023).html" width="100%" height="600" frameborder="0"></iframe>
- <iframe src="Consumer Price Index (CPI) and Inflation in Germany (2009-2023).html" width="100%" height="600" frameborder="0"></iframe>
+ <iframe src="Inflation, Consumer Prices (Annual %) - United States.html" width="100%" height="600" frameborder="0"></iframe>
+ <iframe src="Inflation, Consumer Prices (Annual %) - Germany.html" width="100%" height="600" frameborder="0"></iframe>
+
 
 3. **CPI and Inflation Graph**:  
    We combined **CPI** and **Inflation** data on a single graph for both countries, allowing a direct comparison of these two key indicators.
 
-*![][image5]*
+ <iframe src="Consumer Price Index (CPI) and Inflation in the US (2009-2023).html" width="100%" height="600" frameborder="0"></iframe>
+ <iframe src="Consumer Price Index (CPI) and Inflation in Germany (2009-2023).html" width="100%" height="600" frameborder="0"></iframe>
 
-*![][image6]*
 
 4. **Inflation, GDP deflator (Annual %)**:  
    We created graphs showing inflation based on the **GDP deflator**, which offers a broader view of inflation by measuring price changes in the economy as a whole.
 
-*![][image7]*
+ <iframe src="Inflation, GDP deflator (annual %) - United States.html" width="100%" height="600" frameborder="0"></iframe>
+ <iframe src="Inflation, GDP deflator (annual %) - Germany.html" width="100%" height="600" frameborder="0"></iframe>
 
-*![][image8]*
 
 5. **GDP (Current US$)**:  
    We visualized the **Gross Domestic Product (GDP)** data for both countries to analyze the overall economic output and growth over the years.
 
-*![][image9]*
+ <iframe src="GDP (Current US$) - United States.html" width="100%" height="600" frameborder="0"></iframe>
+ <iframe src="GDP (Current US$) - Germany.html" width="100%" height="600" frameborder="0"></iframe>
 
-*![][image10]*
 
 6. **GDP Deflator (2010 \= 100\)**:  
    The **GDP deflator** was plotted for both countries, showing the changes in the price level of all goods and services produced domestically, relative to the base year 2010\.  
    
+ <iframe src="GDP Deflator (2010 100) - United States.html" width="100%" height="600" frameborder="0"></iframe>
+ <iframe src="GDP Deflator (2010 100) - Germany.html" width="100%" height="600" frameborder="0"></iframe>
 
-*![][image11]*
-
-*![][image12]*
 
 7. **Economic Indicators \- GDP Deflator and Inflation (based on GDP Deflator)**:  
    These graphs combined the **GDP deflator** and **Inflation (based on GDP deflator)** for the U.S. and Germany to examine the relationship between these two indicators during the specified period in each country.
 
-![][image13]
+ <iframe src="USA Economic Indicators - GDP Deflator and Inflation (based on GDP Deflator).html" width="100%" height="600" frameborder="0"></iframe>
+ <iframe src="Germany Economic Indicators - GDP Deflator and Inflation (based on GDP Deflator).html" width="100%" height="600" frameborder="0"></iframe>
 
-![][image14]
 
 8. **Inflation Comparison: GDP Deflator vs CPI**:  
    We compared **GDP deflator-based inflation** and **CPI-based inflation** on a single graph for each country to analyze the differences in these two inflation measures over time.
