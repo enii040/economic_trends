@@ -66,7 +66,7 @@ After preparing the datasets, we analyzed the data based on **two main axes**: t
  
 1. **Consumer Price Index (CPI)**: We visualized the **CPI** for both countries to see how the cost of consumer goods has evolved from 2009 to 2023\.
 
-*![][image1]*
+  <iframe src="Consumer Price Index (2010 100) - United States.html" width="100%" height="600" frameborder="0"></iframe>
 
 *![][image2]*
 
