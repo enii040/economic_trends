@@ -67,16 +67,13 @@ After preparing the datasets, we analyzed the data based on **two main axes**: t
 1. **Consumer Price Index (CPI)**: We visualized the **CPI** for both countries to see how the cost of consumer goods has evolved from 2009 to 2023\.
 
   <iframe src="Consumer Price Index (2010 100) - United States.html" width="100%" height="600" frameborder="0"></iframe>
-
-*![][image2]*
+ <iframe src="Consumer Price Index (2010 100) - Germany.html" width="100%" height="600" frameborder="0"></iframe>
 
 2. **Inflation, Consumer Prices (Annual %)** :  
    We plotted the **annual inflation rates** based on **CPI** for the U.S. and Germany to compare how the yearly inflation percentage has fluctuated across both countries.  
    
-
-*![][image3]*
-
-*![][image4]*
+ <iframe src="Consumer Price Index (CPI) and Inflation in the US (2009-2023).html" width="100%" height="600" frameborder="0"></iframe>
+ <iframe src="Consumer Price Index (CPI) and Inflation in Germany (2009-2023).html" width="100%" height="600" frameborder="0"></iframe>
 
 3. **CPI and Inflation Graph**:  
    We combined **CPI** and **Inflation** data on a single graph for both countries, allowing a direct comparison of these two key indicators.
