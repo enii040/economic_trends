@@ -61,7 +61,7 @@ After preparing the datasets, we analyzed the data based on **two main axes**: t
 
 - **Graphing for Each Indicator (Points 1-8):** For each of the following points, we created **separate** graphs for the U.S. and Germany to visualize and compare the trends:
 
-  **1. Consumer Price Index (CPI)**: We visualized the **CPI** for both countries to see how the cost of consumer goods has evolved from 2009 to 2023\.
+**1. Consumer Price Index (CPI)**: We visualized the **CPI** for both countries to see how the cost of consumer goods has evolved from 2009 to 2023\.
 
 <iframe src="Consumer Price Index (2010 100) - United States.html" width="100%" height="600" frameborder="0"></iframe>
 <iframe src="Consumer Price Index (2010 100) - Germany.html" width="100%" height="600" frameborder="0"></iframe>
