@@ -77,7 +77,7 @@ After preparing the datasets, we analyzed the data based on **two main axes**: t
 
 \
 **3. CPI and Inflation Graph**:  
-   We combined **CPI** and **Inflation** data on a single graph for both countries, allowing a direct comparison of these two key indicators.\
+   We combined **CPI** and **Inflation** data on a single graph for both countries, allowing a direct comparison of these two key indicators\.
 
  <iframe src="Consumer Price Index (CPI) and Inflation in the US (2009-2023).html" width="100%" height="600" frameborder="0"></iframe>
  <iframe src="Consumer Price Index (CPI) and Inflation in Germany (2009-2023).html" width="100%" height="600" frameborder="0"></iframe>
@@ -117,7 +117,14 @@ After preparing the datasets, we analyzed the data based on **two main axes**: t
  <iframe src="Inflation Comparison_ GDP Deflator vs CPI - USA (2009-2023).html" width="100%" height="600" frameborder="0"></iframe>
  <iframe src="Inflation Comparison_ GDP Deflator vs CPI - Germany (2009-2023).html" width="100%" height="600" frameborder="0"></iframe>
 
+\
+**9. Cross-Country Comparison of CPI and Inflation in the US and Germany**:  
+   We analyzed and compared the CPI and inflation trends between the US and Germany to identify differences in price stability and inflationary pressures over time.
 
+ <iframe src="Cross-Country Comparison of CPI and Inflation in the US and Germany.html" width="100%" height="600" frameborder="0"></iframe>
+
+
+ 
 ## **Conclusions**
 
 Referring to the Methods section, we successfully analyzed inflation and economic trends in both the **United States** and **Germany** across different political leadership periods. We focused on a comparative analysis of **Consumer Price Index (CPI)**, **GDP deflator**, and **Gross Domestic Product (GDP)** for the years **2009-2023**. Using visualizations and statistical analysis, we explored how these economic indicators varied under different **U.S. presidencies** (Obama, Trump, Biden) and **German chancellorships** (Merkel, Scholz).
@@ -136,10 +143,9 @@ Referring to the Methods section, we successfully analyzed inflation and economi
 
 \
 
-### **Further Research**
 
-* **Cross-Country Comparison Trends**: Our above-and-beyond element will include a cross-country comparison of CPI and Inflation in the US and Germany to also reach an insightful conclusion.
-\
+
+
 ## **References**
 
 “Consumer Price Index (2010 \= 100).” *World Bank Open Data*, International Monetary Fund, International Financial Statistics and data files., data.worldbank.org/indicator/FP.CPI.TOTL?end=2023\&locations=US\&start=1960. Accessed 7 Dec. 2024\. 
