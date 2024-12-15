@@ -86,8 +86,8 @@ After preparing the datasets, we analyzed the data based on **two main axes**: t
 **4. Inflation, GDP deflator (Annual %)**:  
    We created graphs showing inflation based on the **GDP deflator**, which offers a broader view of inflation by measuring price changes in the economy as a whole.\
 
- <iframe src="Inflation, GDP deflator (annual %) - United States.html" width="100%" height="600" frameborder="0"></iframe>
- <iframe src="Inflation, GDP deflator (annual %) - Germany.html" width="100%" height="600" frameborder="0"></iframe>
+ <iframe src="Inflation(GDP deflator) - United States.html" width="100%" height="600" frameborder="0"></iframe>
+ <iframe src="Inflation(GDP deflator) - Germany.html" width="100%" height="600" frameborder="0"></iframe>
 
 \
 **5. GDP (Current US$)**:  
