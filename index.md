@@ -73,7 +73,7 @@ After preparing the datasets, we analyzed the data based on **two main axes**: t
    We plotted the **annual inflation rates** based on **CPI** for the U.S. and Germany to compare how the yearly inflation percentage has fluctuated across both countries\.
    
  <iframe src="Inflation(Consumer Prices) - United States.html" width="100%" height="600" frameborder="0"></iframe>
- <iframe src="Inflation, Consumer Prices (Annual %) - Germany.html" width="100%" height="600" frameborder="0"></iframe>
+ <iframe src="Inflation(Consumer Prices) - Germany.html" width="100%" height="600" frameborder="0"></iframe>
 
 \
 **3. CPI and Inflation Graph**:  
