@@ -128,20 +128,19 @@ After preparing the datasets, we analyzed the data based on **two main axes**: t
 ## **Conclusions**
 
 Referring to the Methods section, we successfully analyzed inflation and economic trends in both the **United States** and **Germany** across different political leadership periods. We focused on a comparative analysis of **Consumer Price Index (CPI)**, **GDP deflator**, and **Gross Domestic Product (GDP)** for the years **2009-2023**. Using visualizations and statistical analysis, we explored how these economic indicators varied under different **U.S. presidencies** (Obama, Trump, Biden) and **German chancellorships** (Merkel, Scholz).
-\
+
 
 ### **Key Findings**
 
 * **CPI and GDP Deflator Trends**: We found that inflation, as measured by the CPI, showed similar trends between the U.S. and Germany, though Germany's CPI was generally lower throughout the analysis period. The GDP deflator in the U.S. exhibited greater volatility compared to Germany, suggesting broader economic shifts.  
 * **Impact of Political Leadership**: The changes in inflation rates across U.S. presidential terms (Obama, Trump, and Biden) reflected the differences in economic policies, particularly during times of economic crisis (e.g., the COVID-19 pandemic) and recovery periods. Similarly, Germany’s inflationary trends under Merkel and Scholz indicated shifts in fiscal policy and economic strategy, especially in response to the global economic shifts caused by the pandemic.
 
-\
+
 ### **Limitations**
 
 * **Data Sources**: We first encountered limitations as we believed that there were differences in database years for the GDP deflator between the U.S. and Germany, which could have led to some inconsistencies in cross-country comparisons. However, we spoon realized that the data statistics had the same base year (2010 \= 100\)  
 * **External Factors**: Our analysis is confined to data from 2009 to 2023, and external events (such as the COVID-19 pandemic) may have disproportionately impacted economic trends during this period.
 
-\
 
 
 
