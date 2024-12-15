@@ -114,7 +114,8 @@ After preparing the datasets, we analyzed the data based on **two main axes**: t
 **8. Inflation Comparison: GDP Deflator vs CPI**:  
    We compared **GDP deflator-based inflation** and **CPI-based inflation** on a single graph for each country to analyze the differences in these two inflation measures over time.\
 
-
+ <iframe src="Inflation Comparison_ GDP Deflator vs CPI - USA (2009-2023).html" width="100%" height="600" frameborder="0"></iframe>
+ <iframe src="Inflation Comparison_ GDP Deflator vs CPI - Germany (2009-2023).html" width="100%" height="600" frameborder="0"></iframe>
 
 
 ## **Conclusions**
