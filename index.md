@@ -100,8 +100,8 @@ After preparing the datasets, we analyzed the data based on **two main axes**: t
 **6. GDP Deflator (2010 \= 100\)**:  
    The **GDP deflator** was plotted for both countries, showing the changes in the price level of all goods and services produced domestically, relative to the base year 2010\.
    
- <iframe src="GDP Deflator - United States.html" width="100%" height="600" frameborder="0"></iframe>
- <iframe src="GDP Deflator - Germany.html" width="100%" height="600" frameborder="0"></iframe>
+ <iframe src="GDP Deflator - United States (1)" width="100%" height="600" frameborder="0"></iframe>
+ <iframe src="GDP Deflator - Germany (1).html" width="100%" height="600" frameborder="0"></iframe>
 
 \
 **7. Economic Indicators \- GDP Deflator and Inflation (based on GDP Deflator)**:  
