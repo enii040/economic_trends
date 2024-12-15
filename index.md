@@ -84,7 +84,7 @@ After preparing the datasets, we analyzed the data based on **two main axes**: t
 
 \
 **4. Inflation, GDP deflator (Annual %)**:  
-   We created graphs showing inflation based on the **GDP deflator**, which offers a broader view of inflation by measuring price changes in the economy as a whole.\
+   We created graphs showing inflation based on the **GDP deflator**, which offers a broader view of inflation by measuring price changes in the economy as a whole\.
 
  <iframe src="Inflation(GDP deflator) - United States.html" width="100%" height="600" frameborder="0"></iframe>
  <iframe src="Inflation(GDP deflator) - Germany.html" width="100%" height="600" frameborder="0"></iframe>
@@ -98,7 +98,7 @@ After preparing the datasets, we analyzed the data based on **two main axes**: t
 
 \
 **6. GDP Deflator (2010 \= 100\)**:  
-   The **GDP deflator** was plotted for both countries, showing the changes in the price level of all goods and services produced domestically, relative to the base year 2010.\ 
+   The **GDP deflator** was plotted for both countries, showing the changes in the price level of all goods and services produced domestically, relative to the base year 2010\.
    
  <iframe src="GDP Deflator - United States.html" width="100%" height="600" frameborder="0"></iframe>
  <iframe src="GDP Deflator - Germany.html" width="100%" height="600" frameborder="0"></iframe>
@@ -112,14 +112,14 @@ After preparing the datasets, we analyzed the data based on **two main axes**: t
 
 \
 **8. Inflation Comparison: GDP Deflator vs CPI**:  
-   We compared **GDP deflator-based inflation** and **CPI-based inflation** on a single graph for each country to analyze the differences in these two inflation measures over time.\
+   We compared **GDP deflator-based inflation** and **CPI-based inflation** on a single graph for each country to analyze the differences in these two inflation measures over time\.
 
  <iframe src="Inflation Comparison_ GDP Deflator vs CPI - USA (2009-2023).html" width="100%" height="600" frameborder="0"></iframe>
  <iframe src="Inflation Comparison_ GDP Deflator vs CPI - Germany (2009-2023).html" width="100%" height="600" frameborder="0"></iframe>
 
 \
 **9. Cross-Country Comparison of CPI and Inflation in the US and Germany**:  
-   We analyzed and compared the CPI and inflation trends between the US and Germany to identify differences in price stability and inflationary pressures over time.
+   We analyzed and compared the CPI and inflation trends between the US and Germany to identify differences in price stability and inflationary pressures over time\.
 
  <iframe src="Cross-Country Comparison of CPI and Inflation in the US and Germany.html" width="100%" height="600" frameborder="0"></iframe>
 
