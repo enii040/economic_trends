@@ -93,8 +93,8 @@ After preparing the datasets, we analyzed the data based on **two main axes**: t
 **5. GDP (Current US$)**:  
    We visualized the **Gross Domestic Product (GDP)** data for both countries to analyze the overall economic output and growth over the years.\
 
- <iframe src="GDP (Current US$) - United States.html" width="100%" height="600" frameborder="0"></iframe>
- <iframe src="GDP (Current US$) - Germany.html" width="100%" height="600" frameborder="0"></iframe>
+ <iframe src="GDP - United States.html" width="100%" height="600" frameborder="0"></iframe>
+ <iframe src="GDP - Germany.html" width="100%" height="600" frameborder="0"></iframe>
 
 \
 **6. GDP Deflator (2010 \= 100\)**:  
