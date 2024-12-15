@@ -129,8 +129,12 @@ After preparing the datasets, we analyzed the data based on **two main axes**: t
 
 Referring to the Methods section, we successfully analyzed inflation and economic trends in both the **United States** and **Germany** across different political leadership periods. We focused on a comparative analysis of **Consumer Price Index (CPI)**, **GDP deflator**, and **Gross Domestic Product (GDP)** for the years **2009-2023**. Using visualizations and statistical analysis, we explored how these economic indicators varied under different **U.S. presidencies** (Obama, Trump, Biden) and **German chancellorships** (Merkel, Scholz).
 
+As expected USA shows a consistently higher and faster-growing CPI than Germany, indicating more significant cumulative price increases over the years. Germany’s CPI remains more stable, reflecting controlled inflationary pressures compared to the USA.
 
-### **Key Findings**
+Inflation Rates: Both countries experience a sharp increase in inflation post-2020, likely due to global economic disruptions (e.g., pandemic recovery, supply chain issues, energy crises). Inflation rates in both countries begin to stabilize by 2023, though Germany shows lower rates than the USA. Overall, the plotted data aligned with our hypothesis, although there might be many more external factors that impacted the GDP, Inflation and CPI trends, which we did not mention in our data analysis.
+
+
+### **Key Findings and Interpretation**
 
 * **CPI and GDP Deflator Trends**: We found that inflation, as measured by the CPI, showed similar trends between the U.S. and Germany, though Germany's CPI was generally lower throughout the analysis period. The GDP deflator in the U.S. exhibited greater volatility compared to Germany, suggesting broader economic shifts.  
 * **Impact of Political Leadership**: The changes in inflation rates across U.S. presidential terms (Obama, Trump, and Biden) reflected the differences in economic policies, particularly during times of economic crisis (e.g., the COVID-19 pandemic) and recovery periods. Similarly, Germany’s inflationary trends under Merkel and Scholz indicated shifts in fiscal policy and economic strategy, especially in response to the global economic shifts caused by the pandemic.
